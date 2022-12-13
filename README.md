@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @dldnjsgy5912
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Next.js, TypeScript, React 기반의 기술로 다양한 플랫폼 프로젝트를 진행해본 1년차 프론트엔드 개발자 이원효입니다.
+새로운 기술을 활용해 비즈니스 문제를 해결하는 것에 관심이 많습니다.
 
-<!---
-dldnjsgy5912/dldnjsgy5912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+• 웹 서비스의 프론트엔드 개발, 유지보수 경험
+• 다양한 프로젝트로 인한 UI 구현 경험으로 사용자 니즈 파악
+• 기획 단계부터 참여한 프로젝트 다수
+• 애자일 프로그램(JIRA)를 사용하여 다양한 팀과의 협업 경험
+• 기획서 분석후 interface 작성 경험
+• 웹페이지 국제화 적용 경험
+• React-Query 도입으로 client state 와 server state 를 효율적으로 분리 경험
